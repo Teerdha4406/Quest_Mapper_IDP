@@ -7,7 +7,7 @@ Quest Mapper is a web application designed for users to manage their travel pack
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
+- [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Contribution](#contribution)
 - [License](#license)

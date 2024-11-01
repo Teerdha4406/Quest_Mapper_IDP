@@ -9,7 +9,6 @@ Quest Mapper is a web application designed for users to manage their travel pack
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,8 +41,16 @@ To get a local copy of the project up and running, follow these simple steps:
 
 ### Installation
 
-- 1.Install the required packages:
-    npm install express mongoose body-parser cors bcrypt jsonwebtoken
-- 2.Start the server:
-    node app.js
-- 3.Open your browser and navigate to http://localhost:3000
+ 1.Install the required packages:
+-    npm install express mongoose body-parser cors bcrypt jsonwebtoken
+  2.Start the server:
+-    node app.js
+  3.Open your browser and navigate to,
+- http://localhost:3000
+
+### Contributing
+This is a, Inter Department Project(IDP) done by our Batch-13 ,during our B.Tech, 3rd year 1st semister.
+- 221FA04127 Malleswara Kumar
+- 221FA04277 Abhinaya
+- 221FA04353 Janardhan
+- 221FA04406 Teerdha Ganesh

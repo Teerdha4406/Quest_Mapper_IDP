@@ -41,11 +41,11 @@ To get a local copy of the project up and running, follow these simple steps:
 
 ### Installation
 
-- 1.Install the required packages:
+1.Install the required packages:
 -    npm install express mongoose body-parser cors bcrypt jsonwebtoken
--  2.Start the server:
+2.Start the server:
 -    node app.js
--  3.Open your browser and navigate to,
+  3.Open your browser and navigate to,
 -    http://localhost:3000
 
 ### Contribution

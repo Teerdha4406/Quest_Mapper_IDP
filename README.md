@@ -49,7 +49,7 @@ To get a local copy of the project up and running, follow these simple steps:
 - http://localhost:3000
 
 ### Contribution
-This is a, Inter Department Project(IDP) done by our Batch-13 ,during our B.Tech, 3rd year 1st semister.
+This is an, Inter Department Project (IDP) done by our Batch-13 ,during our B.Tech, 3rd year 1st semister.
 - 221FA04127 Malleswara Kumar
 - 221FA04277 Abhinaya
 - 221FA04353 Janardhan
